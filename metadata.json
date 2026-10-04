@@ -1,0 +1,6 @@
+{
+  "name": "DGR Duel: Competing Theorems",
+  "description": "Interactive comparison of Distraction-Guided Resolution (DGR) theorems, exploring the trade-offs between runtime guarantees and space efficiency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
